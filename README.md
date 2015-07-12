@@ -4,5 +4,5 @@ Based on the work of Stemby: https://bitcointalk.org/index.php?topic=1025362.msg
 
 The font used is Nobile, made by Vernon Adams: http://www.fontsquirrel.com/fonts/nobile
 
-Result: http://mikexine.me/trtlast.png 
+Result: ![Last](http://mikexine.me/trtlast.png)
 
